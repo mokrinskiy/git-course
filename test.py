@@ -3,4 +3,4 @@ def abbrev_name(name):
 
 abbrev_name("Sam Harris")
 print('Hello from JS')
-print('я ебал твой рот')
+print('я ебал твой рот')frfer
